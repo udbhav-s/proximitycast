@@ -1,0 +1,77 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.4.1"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "MyProject",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "UTM::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-UTM-Debug-09b14c404e51a8c54025.json",
+					"name" : "UTM",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mymain::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mymain-Debug-700bbefa8021707d6f25.json",
+					"name" : "mymain",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "paillier::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-paillier-Debug-1a540016a73a0415318e.json",
+					"name" : "paillier",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/udbha/StudioProjects/proximity_app/android/app/.cxx/Debug/1b3j6nu4/x86",
+		"source" : "C:/Users/udbha/StudioProjects/proximity_app/android/app"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 1
+	}
+}

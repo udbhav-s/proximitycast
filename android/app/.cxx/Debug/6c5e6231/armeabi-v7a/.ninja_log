@@ -1,0 +1,20 @@
+# ninja log v5
+9	235	689545883	CMakeFiles/UTM.dir/C_/Users/udbha/StudioProjects/proximity_app/src/UTM/UTM.cpp.o	d37e4909b9c0a87
+1	251	689545883	CMakeFiles/paillier.dir/C_/Users/udbha/StudioProjects/proximity_app/src/libpaillier-0.8/paillier.c.o	319edf45a3bdc93f
+6	310	689545883	CMakeFiles/mymain.dir/C_/Users/udbha/StudioProjects/proximity_app/src/coords.cpp.o	27c871737db83126
+252	387	689545883	C:/Users/udbha/StudioProjects/proximity_app/build/app/intermediates/cxx/Debug/6c5e6231/obj/armeabi-v7a/libpaillier.so	3afd48cee2b422ba
+236	388	689545883	C:/Users/udbha/StudioProjects/proximity_app/build/app/intermediates/cxx/Debug/6c5e6231/obj/armeabi-v7a/libUTM.so	352d23134976e041
+13	1098	689545884	CMakeFiles/mymain.dir/C_/Users/udbha/StudioProjects/proximity_app/src/crypto_functions.cpp.o	e125f83dce1738d3
+1099	1263	689545884	C:/Users/udbha/StudioProjects/proximity_app/build/app/intermediates/cxx/Debug/6c5e6231/obj/armeabi-v7a/libmymain.so	cb186008000a994a
+3	935	689556525	CMakeFiles/mymain.dir/C_/Users/udbha/StudioProjects/proximity_app/src/crypto_functions.cpp.o	e125f83dce1738d3
+935	1159	689556525	C:/Users/udbha/StudioProjects/proximity_app/build/app/intermediates/cxx/Debug/6c5e6231/obj/armeabi-v7a/libmymain.so	cb186008000a994a
+3	1112	689561617	CMakeFiles/mymain.dir/C_/Users/udbha/StudioProjects/proximity_app/src/crypto_functions.cpp.o	e125f83dce1738d3
+1112	1311	689561617	C:/Users/udbha/StudioProjects/proximity_app/build/app/intermediates/cxx/Debug/6c5e6231/obj/armeabi-v7a/libmymain.so	cb186008000a994a
+3	1059	689656395	CMakeFiles/mymain.dir/C_/Users/udbha/StudioProjects/proximity_app/src/crypto_functions.cpp.o	e125f83dce1738d3
+1059	1346	689656395	C:/Users/udbha/StudioProjects/proximity_app/build/app/intermediates/cxx/Debug/6c5e6231/obj/armeabi-v7a/libmymain.so	cb186008000a994a
+3	1352	689836098	CMakeFiles/mymain.dir/C_/Users/udbha/StudioProjects/proximity_app/src/crypto_functions.cpp.o	e125f83dce1738d3
+1352	1734	689836098	C:/Users/udbha/StudioProjects/proximity_app/build/app/intermediates/cxx/Debug/6c5e6231/obj/armeabi-v7a/libmymain.so	ce44fa2c8fdaadbb
+3	1435	689839405	CMakeFiles/mymain.dir/C_/Users/udbha/StudioProjects/proximity_app/src/crypto_functions.cpp.o	e125f83dce1738d3
+1436	1637	689839405	C:/Users/udbha/StudioProjects/proximity_app/build/app/intermediates/cxx/Debug/6c5e6231/obj/armeabi-v7a/libmymain.so	ce44fa2c8fdaadbb
+4	1207	689915869	CMakeFiles/mymain.dir/C_/Users/udbha/StudioProjects/proximity_app/src/crypto_functions.cpp.o	e125f83dce1738d3
+1207	1518	689915869	C:/Users/udbha/StudioProjects/proximity_app/build/app/intermediates/cxx/Debug/6c5e6231/obj/armeabi-v7a/libmymain.so	ce44fa2c8fdaadbb

@@ -1,0 +1,20 @@
+# ninja log v5
+1	208	689545886	CMakeFiles/paillier.dir/C_/Users/udbha/StudioProjects/proximity_app/src/libpaillier-0.8/paillier.c.o	fe40ae15a73e2f8
+5	221	689545886	CMakeFiles/UTM.dir/C_/Users/udbha/StudioProjects/proximity_app/src/UTM/UTM.cpp.o	b98fcbc33bc8f877
+9	289	689545886	CMakeFiles/mymain.dir/C_/Users/udbha/StudioProjects/proximity_app/src/coords.cpp.o	e43472254a9f17f7
+208	340	689545886	C:/Users/udbha/StudioProjects/proximity_app/build/app/intermediates/cxx/Debug/6c5e6231/obj/x86/libpaillier.so	de7a39f15d78cc2e
+221	345	689545886	C:/Users/udbha/StudioProjects/proximity_app/build/app/intermediates/cxx/Debug/6c5e6231/obj/x86/libUTM.so	7af5a2ccdc67180c
+13	1061	689545886	CMakeFiles/mymain.dir/C_/Users/udbha/StudioProjects/proximity_app/src/crypto_functions.cpp.o	c30d0d8d46a786e0
+1062	1204	689545887	C:/Users/udbha/StudioProjects/proximity_app/build/app/intermediates/cxx/Debug/6c5e6231/obj/x86/libmymain.so	4d5bb5f01ea4eb3
+2	921	689556527	CMakeFiles/mymain.dir/C_/Users/udbha/StudioProjects/proximity_app/src/crypto_functions.cpp.o	c30d0d8d46a786e0
+921	1124	689556527	C:/Users/udbha/StudioProjects/proximity_app/build/app/intermediates/cxx/Debug/6c5e6231/obj/x86/libmymain.so	4d5bb5f01ea4eb3
+4	1052	689561618	CMakeFiles/mymain.dir/C_/Users/udbha/StudioProjects/proximity_app/src/crypto_functions.cpp.o	c30d0d8d46a786e0
+1053	1215	689561619	C:/Users/udbha/StudioProjects/proximity_app/build/app/intermediates/cxx/Debug/6c5e6231/obj/x86/libmymain.so	4d5bb5f01ea4eb3
+3	1029	689656396	CMakeFiles/mymain.dir/C_/Users/udbha/StudioProjects/proximity_app/src/crypto_functions.cpp.o	c30d0d8d46a786e0
+1029	1284	689656397	C:/Users/udbha/StudioProjects/proximity_app/build/app/intermediates/cxx/Debug/6c5e6231/obj/x86/libmymain.so	4d5bb5f01ea4eb3
+3	1234	689836100	CMakeFiles/mymain.dir/C_/Users/udbha/StudioProjects/proximity_app/src/crypto_functions.cpp.o	c30d0d8d46a786e0
+1234	1555	689836100	C:/Users/udbha/StudioProjects/proximity_app/build/app/intermediates/cxx/Debug/6c5e6231/obj/x86/libmymain.so	78891a31aeb66681
+3	1353	689839406	CMakeFiles/mymain.dir/C_/Users/udbha/StudioProjects/proximity_app/src/crypto_functions.cpp.o	c30d0d8d46a786e0
+1353	1514	689839406	C:/Users/udbha/StudioProjects/proximity_app/build/app/intermediates/cxx/Debug/6c5e6231/obj/x86/libmymain.so	78891a31aeb66681
+3	1043	689915870	CMakeFiles/mymain.dir/C_/Users/udbha/StudioProjects/proximity_app/src/crypto_functions.cpp.o	c30d0d8d46a786e0
+1043	1314	689915870	C:/Users/udbha/StudioProjects/proximity_app/build/app/intermediates/cxx/Debug/6c5e6231/obj/x86/libmymain.so	78891a31aeb66681

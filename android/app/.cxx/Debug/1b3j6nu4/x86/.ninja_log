@@ -1,0 +1,11 @@
+# ninja log v5
+0	197	689235281	CMakeFiles/paillier.dir/C_/Users/udbha/StudioProjects/proximity_app/src/libpaillier-0.8/paillier.c.o	4755c791a5ec599a
+8	230	689235281	CMakeFiles/UTM.dir/C_/Users/udbha/StudioProjects/proximity_app/src/UTM/UTM.cpp.o	a33c357a9a789a65
+5	297	689235281	CMakeFiles/mymain.dir/C_/Users/udbha/StudioProjects/proximity_app/src/coords.cpp.o	4594d91789404428
+197	335	689235281	C:/Users/udbha/StudioProjects/proximity_app/build/app/intermediates/cxx/Debug/1b3j6nu4/obj/x86/libpaillier.so	d62fe69c2e5c32ac
+230	341	689235281	C:/Users/udbha/StudioProjects/proximity_app/build/app/intermediates/cxx/Debug/1b3j6nu4/obj/x86/libUTM.so	a9d76bfb568e3905
+11	810	689235282	CMakeFiles/mymain.dir/C_/Users/udbha/StudioProjects/proximity_app/src/main.cpp.o	152668967e24919c
+810	922	689235282	C:/Users/udbha/StudioProjects/proximity_app/build/app/intermediates/cxx/Debug/1b3j6nu4/obj/x86/libmymain.so	b856158a155d7667
+2	255	689371168	CMakeFiles/mymain.dir/C_/Users/udbha/StudioProjects/proximity_app/src/coords.cpp.o	4594d91789404428
+6	667	689371168	CMakeFiles/mymain.dir/C_/Users/udbha/StudioProjects/proximity_app/src/main.cpp.o	152668967e24919c
+667	905	689371169	C:/Users/udbha/StudioProjects/proximity_app/build/app/intermediates/cxx/Debug/1b3j6nu4/obj/x86/libmymain.so	b856158a155d7667

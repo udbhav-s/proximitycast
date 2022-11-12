@@ -1,0 +1,22 @@
+[
+{
+  "directory": "C:/Users/udbha/StudioProjects/proximity_app/android/app/.cxx/Debug/1b3j6nu4/x86_64",
+  "command": "C:\\Users\\udbha\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android21 --gcc-toolchain=C:/Users/udbha/AppData/Local/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/udbha/AppData/Local/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dpaillier_EXPORTS -I../../../../src/main/customJniLibs/x86_64 -I../../../../../../src/libpaillier-0.8 -I../../../../../../src/UTM -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC -o CMakeFiles\\paillier.dir\\C_\\Users\\udbha\\StudioProjects\\proximity_app\\src\\libpaillier-0.8\\paillier.c.o -c C:\\Users\\udbha\\StudioProjects\\proximity_app\\src\\libpaillier-0.8\\paillier.c",
+  "file": "C:\\Users\\udbha\\StudioProjects\\proximity_app\\src\\libpaillier-0.8\\paillier.c"
+},
+{
+  "directory": "C:/Users/udbha/StudioProjects/proximity_app/android/app/.cxx/Debug/1b3j6nu4/x86_64",
+  "command": "C:\\Users\\udbha\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=x86_64-none-linux-android21 --gcc-toolchain=C:/Users/udbha/AppData/Local/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/udbha/AppData/Local/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DUTM_EXPORTS -I../../../../src/main/customJniLibs/x86_64 -I../../../../../../src/libpaillier-0.8 -I../../../../../../src/UTM -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC -o CMakeFiles\\UTM.dir\\C_\\Users\\udbha\\StudioProjects\\proximity_app\\src\\UTM\\UTM.cpp.o -c C:\\Users\\udbha\\StudioProjects\\proximity_app\\src\\UTM\\UTM.cpp",
+  "file": "C:\\Users\\udbha\\StudioProjects\\proximity_app\\src\\UTM\\UTM.cpp"
+},
+{
+  "directory": "C:/Users/udbha/StudioProjects/proximity_app/android/app/.cxx/Debug/1b3j6nu4/x86_64",
+  "command": "C:\\Users\\udbha\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=x86_64-none-linux-android21 --gcc-toolchain=C:/Users/udbha/AppData/Local/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/udbha/AppData/Local/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dmymain_EXPORTS -I../../../../src/main/customJniLibs/x86_64 -I../../../../../../src/libpaillier-0.8 -I../../../../../../src/UTM -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC -o CMakeFiles\\mymain.dir\\C_\\Users\\udbha\\StudioProjects\\proximity_app\\src\\coords.cpp.o -c C:\\Users\\udbha\\StudioProjects\\proximity_app\\src\\coords.cpp",
+  "file": "C:\\Users\\udbha\\StudioProjects\\proximity_app\\src\\coords.cpp"
+},
+{
+  "directory": "C:/Users/udbha/StudioProjects/proximity_app/android/app/.cxx/Debug/1b3j6nu4/x86_64",
+  "command": "C:\\Users\\udbha\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=x86_64-none-linux-android21 --gcc-toolchain=C:/Users/udbha/AppData/Local/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/udbha/AppData/Local/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dmymain_EXPORTS -I../../../../src/main/customJniLibs/x86_64 -I../../../../../../src/libpaillier-0.8 -I../../../../../../src/UTM -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC -o CMakeFiles\\mymain.dir\\C_\\Users\\udbha\\StudioProjects\\proximity_app\\src\\main.cpp.o -c C:\\Users\\udbha\\StudioProjects\\proximity_app\\src\\main.cpp",
+  "file": "C:\\Users\\udbha\\StudioProjects\\proximity_app\\src\\main.cpp"
+}
+]

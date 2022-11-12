@@ -1,0 +1,60 @@
+{
+  "buildFiles": [
+    "C:\\Users\\udbha\\StudioProjects\\proximity_app\\android\\app\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\udbha\\AppData\\Local\\Android\\sdk\\cmake\\3.18.1\\bin\\ninja.exe",
+      "-C",
+      "C:\\Users\\udbha\\StudioProjects\\proximity_app\\android\\app\\.cxx\\Debug\\1b3j6nu4\\x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\udbha\\AppData\\Local\\Android\\sdk\\cmake\\3.18.1\\bin\\ninja.exe",
+    "-C",
+    "C:\\Users\\udbha\\StudioProjects\\proximity_app\\android\\app\\.cxx\\Debug\\1b3j6nu4\\x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "UTM::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "x86",
+      "artifactName": "UTM",
+      "output": "C:\\Users\\udbha\\StudioProjects\\proximity_app\\build\\app\\intermediates\\cxx\\Debug\\1b3j6nu4\\obj\\x86\\libUTM.so",
+      "runtimeFiles": []
+    },
+    "mymain::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "x86",
+      "artifactName": "mymain",
+      "output": "C:\\Users\\udbha\\StudioProjects\\proximity_app\\build\\app\\intermediates\\cxx\\Debug\\1b3j6nu4\\obj\\x86\\libmymain.so",
+      "runtimeFiles": [
+        "C:\\Users\\udbha\\StudioProjects\\proximity_app\\build\\app\\intermediates\\cxx\\Debug\\1b3j6nu4\\obj\\x86\\libpaillier.so",
+        "C:\\Users\\udbha\\StudioProjects\\proximity_app\\build\\app\\intermediates\\cxx\\Debug\\1b3j6nu4\\obj\\x86\\libUTM.so",
+        "C:\\Users\\udbha\\StudioProjects\\proximity_app\\android\\app\\src\\main\\customJniLibs\\x86\\libgmp.so"
+      ]
+    },
+    "paillier::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "x86",
+      "artifactName": "paillier",
+      "output": "C:\\Users\\udbha\\StudioProjects\\proximity_app\\build\\app\\intermediates\\cxx\\Debug\\1b3j6nu4\\obj\\x86\\libpaillier.so",
+      "runtimeFiles": [
+        "C:\\Users\\udbha\\StudioProjects\\proximity_app\\android\\app\\src\\main\\customJniLibs\\x86\\libgmp.so"
+      ]
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "C:\\Users\\udbha\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe",
+      "cppCompilerExecutable": "C:\\Users\\udbha\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    }
+  },
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}
